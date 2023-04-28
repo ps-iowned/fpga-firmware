@@ -6,7 +6,7 @@ Program: not started
 Usable: no
 
 # Plan
-FPGA firmware rewrite necessary for full open source CFW. But how? What open source Cyclone 3 toolchain?
+FPGA firmware rewrite necessary for full open source CFW. But how? Toolchain: https://github.com/raetro/sdk-docker-fpga
 
 # Notes
 FPGA firmware probably very simple, but not sure yet.
